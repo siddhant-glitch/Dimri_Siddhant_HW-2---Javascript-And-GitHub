@@ -1,0 +1,15 @@
+@charset 'UTF-8';
+
+
+body {
+    text-align:center;
+    padding:100px 50px;
+    padding-left: 40px;
+    background-color: #c3c3c3;
+    font-family: 'Helvetica', sans-serif;
+}
+
+img{
+	padding-left: 60px;
+	width: 300px;
+}
